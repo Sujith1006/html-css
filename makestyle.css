@@ -1,0 +1,107 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}.container{
+    /* width: 1200px/; */
+    /* margin: 0; */
+    background-color:#081A2E;
+    height: 20cm;
+    
+    
+}
+
+.makeflex{
+     align-items: center;
+    box-align: center; 
+    display: flex;
+    list-style-type: none;
+    padding-top: .25cm;
+    
+
+}
+.usersection{
+    display: flex;
+    list-style-type: none;
+    margin-left: 200px;
+
+}
+
+.ref {
+    margin-left: 10px;
+text-decoration: none;
+text-shadow: black;
+color:white;
+padding:10px;
+background-color: #2D3848;
+border-radius:10px;
+margin-right: 1cm;
+
+}
+.addimage
+{
+    background: url("./new.png")no-repeat;
+    width: 23px;
+    height: 25px;
+    background-position: -343px -7px;
+    
+}
+.ref1
+{
+display: flex;
+text-decoration: none;
+padding:20px;
+color:black;
+padding-bottom: -.5cm;
+text-align-last: justify;
+
+}
+.firstdiv{
+    
+    
+    background-color: white;
+    margin: 25px 200px;
+    border-radius: 8px;
+    height: 2cm;
+    width: 24cm;
+    margin-left:5cm;
+    margin-right:4cm;
+    border-style: groove;
+    margin-top: 1cm;
+    padding-bottom:1cm;
+    
+
+}
+.seconddiv{
+    
+height:6cm;
+width: 115%;
+align-content: center;
+margin-left: -3cm;
+margin-right: -3cm;
+ background-color: white;
+border-radius: 8px ;
+margin-top: .5cm;
+border-style: groove;
+display: flex;
+padding: 1cm;
+}
+.doflex
+{
+    display: flex;
+    text-decoration: none;
+    list-style-type: none;
+    margin-left: 10px;
+    
+}
+.flexlext
+{
+    align-items: center;
+    text-transform: uppercase;  
+     margin: 0 10px;
+    padding: 2px 6px;
+}
+.rightfly
+{
+    margin-left: auto;
+}
